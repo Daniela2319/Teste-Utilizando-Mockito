@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.dani.mockito.CadastrarPessoasTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-09T23:14:54" hostname="DESKTOP-ORQ6LHV" time="0.601">
+  <properties/>
+  <testcase name="validarDadosDeCadastro()" classname="edu.dani.mockito.CadastrarPessoasTeste" time="0.601"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
